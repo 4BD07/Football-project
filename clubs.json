@@ -1,0 +1,39 @@
+{
+    "FC Barcelona": {
+      "country": "Spain",
+      "founded": 1899,
+      "stadium": "Spotify Camp Nou",
+      "logo": "https://www.freeiconspng.com/uploads/fcb-logo-vector-png-4.png"
+    },
+    "Real Madrid": {
+      "country": "Spain",
+      "founded": 1902,
+      "stadium": "Santiago Bernabéu Stadium",
+      "logo": "https://toppng.com/uploads/preview/real-madrid-logo-11527531673rq6aume4ab.png"
+    },
+    "Liverpool FC": {
+      "country": "England",
+      "founded": 1892,
+      "stadium": "Anfield",
+      "logo": "https://th.bing.com/th/id/OIP.sg81q2BePqTV20fqJf3f2wHaGl?w=213&h=189&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
+    },
+    "Manchester United": {
+      "country": "England",
+      "founded": 1878,
+      "stadium": "Old Trafford",
+      "logo": "https://th.bing.com/th/id/OIP.nsEsfbzKfQ67kYsLpEl40gHaEq?w=288&h=181&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
+    },
+    "Bayern Munich": {
+      "country": "Germany",
+      "founded": 1900,
+      "stadium": "Allianz Arena",
+      "logo": "https://th.bing.com/th/id/OIP.A_wn7AgaTsQeOeDe0bKKzQHaFj?w=232&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
+    },
+    "Juventus": {
+      "country": "Italy",
+      "founded": 1897,
+      "stadium": "Allianz Stadium",
+      "logo": "https://th.bing.com/th/id/OIP.WmL_b91BLBSxi8w1xDEhpQAAAA?w=193&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
+    }
+  }
+  

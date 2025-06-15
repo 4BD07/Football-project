@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+    padding: 1em 2em;
+    color: white;
+  }
+  
+  .navbar .logo {
+    font-size: 1.5em;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5em;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .hero {
+    background: url('images/football-bg.jpg') no-repeat center center/cover;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .hero-content h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+  }
+  
+  .cta-button {
+    background-color: #e50914;
+    color: white;
+    padding: 0.75em 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
+  .clubs-showcase {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .clubs-showcase h2 {
+    margin-bottom: 2em;
+  }
+  
+  .clubs-container {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+  }
+  
+  .club-card {
+    background-color: white;
+    padding: 1em;
+    border-radius: 10px;
+    width: 200px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .club-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .club-card img {
+    width: 200px; 
+    height: 200px;
+    border-radius: 5px;
+  }
+  
+  .club-card h3 {
+    margin-top: 1em;
+  }
+
+
+
+
+
+  .site-footer {
+    background-color: #111;
+    color: #eee;
+    padding: 40px 20px 20px;
+    margin-top: 50px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-section {
+    flex: 1 1 250px;
+  }
+  
+  .footer-section h4 {
+    margin-bottom: 15px;
+    font-size: 1.2em;
+  }
+  
+  .footer-section p,
+  .footer-section ul {
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li a {
+    color: #eee;
+    text-decoration: none;
+  }
+  
+  .footer-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 0.9em;
+    border-top: 1px solid #444;
+  }
